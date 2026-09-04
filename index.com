@@ -312,7 +312,7 @@
         <div class="card">
 
             <div class="profile">
-                AY
+                DE
             </div>
 
             <h1>Aldy YORU</h1>
